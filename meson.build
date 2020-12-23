@@ -1,4 +1,4 @@
-project('Hello World', 'c')
+project('Hello World', 'c', version: '1.0')
 
 gtkdep = dependency('gtk4')
 sources = files('hello-world-gtk.c')
