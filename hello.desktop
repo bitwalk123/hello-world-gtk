@@ -5,6 +5,6 @@ Comment=Hello World program with GTK4
 Exec=hello
 Terminal=false
 Type=Application
-Icon=xterm-color
+Icon=hello
 Categories=Hello World;
 Keywords=GTK4;
