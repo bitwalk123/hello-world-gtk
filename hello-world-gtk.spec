@@ -33,3 +33,7 @@ Hello World program with GTK4.
 %{_datadir}/applications/hello.desktop
 %{_datadir}/icons/hicolor/scalable/apps/hello.svg
 %{_bindir}/hello
+
+%changelog
+* Wed Dec 23 2020 Fuhito Suguri <bitwalk@users.sourceforge.net> - 1.0-1
+- Initial package
