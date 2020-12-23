@@ -6,5 +6,5 @@ Exec=hello
 Terminal=false
 Type=Application
 Icon=hello
-Categories=Hello World;
-Keywords=GTK4;
+Categories=Utility
+Keywords=GTK4
