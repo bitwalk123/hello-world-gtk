@@ -5,7 +5,7 @@ Summary:        Hello World program with GTK4
 
 License:        Public Domain
 URL:            https://github.com/bitwalk123/hello-world-gtk
-Source:         %{name}-main.zip
+Source:         %{name}-%{version}.zip
 
 BuildRequires:  meson
 BuildRequires:  gcc
@@ -15,7 +15,7 @@ BuildRequires:  gtk4-devel
 Hello World program with GTK4.
 
 %prep
-%autosetup -n %{name}-main
+%autosetup -n %{name}-%{version}
 
 %build
 %meson
