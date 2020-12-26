@@ -10,6 +10,7 @@ Source:         %{name}-%{version}.zip
 BuildRequires:  meson
 BuildRequires:  gcc
 BuildRequires:  gtk4-devel
+BuildRequires:  vulkan-headers
 Requires:       gtk4
 
 %description
